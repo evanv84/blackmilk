@@ -1,0 +1,20 @@
+{
+  "name": "blackmilk.studio",
+  "authors": [
+    "i.i."
+  ],
+  "description": "interior design studio",
+  "main": "",
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0"
+  }
+}
